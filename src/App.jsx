@@ -1,4 +1,4 @@
-import './App.css'
+import './main.css'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import Header from './componentes/Header.jsx'
 import Galeria from './componentes/Galeria.jsx'

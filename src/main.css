@@ -1,0 +1,12 @@
+body {
+    background: linear-gradient(30deg, crimson, sienna, royalblue, indianred, purple);
+}
+
+.container {
+    color: white;
+}
+
+.img {
+    width: 300px;
+    height: 400px;
+}
